@@ -18,3 +18,20 @@
    display: block;
    margin: 0 auto;
 }
+
+#img-div {
+    width: 100%;
+    border: 5px solid white;
+    background: white;
+    margin-top: 20px;
+    margin: -5px;
+    
+}
+
+#main {
+    border: 0px solid;
+    padding: 15px;
+    margin: 30px;
+    border-radius: 5px;
+    background: #eee;
+}
