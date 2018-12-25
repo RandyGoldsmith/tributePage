@@ -6,6 +6,7 @@
 
 #title {
     text-align: center;
+    padding: 15px;
 }
 
 #tribute-info {
@@ -21,11 +22,19 @@
 
 #img-div {
     width: 100%;
-    border: 5px solid white;
     background: white;
     margin-top: 20px;
     margin: -5px;
-    
+    border: 5px solid white;
+}
+
+#img-caption {
+    text-align: center;
+    padding: 15px;
+}
+
+#tribute-info {
+    margin-top: 25px;
 }
 
 #main {
@@ -34,4 +43,14 @@
     margin: 30px;
     border-radius: 5px;
     background: #eee;
+}
+
+ul {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+li {
+    margin: 10px;
 }
