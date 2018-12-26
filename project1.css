@@ -1,12 +1,30 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
+html,
+body {
+    font-family: 'Aleo', sans-serif;
+}
+
+h3 {
+    padding: 15px;
+}
+
+blockquote {
+    padding: 15px;
+}
 
 #title {
     text-align: center;
     padding: 15px;
+}
+
+#title-sub {
+    text-align: center;
+    margin: 15px;
 }
 
 #tribute-info {
@@ -53,4 +71,5 @@ ul {
 
 li {
     margin: 10px;
+    list-style: none;
 }
